@@ -1,4 +1,4 @@
-# Superstore Data Aanlysis
+# Superstore Data Analysis
 ### Project Overview
 This project features a dynamic Excel dashboard built to analyze and visualize sales performance using real-world Superstore dataset. The datasets helps track KPIs, monitor trends, and uncover insights for data-driven business decisions.
 ### Problem Statement
@@ -28,6 +28,8 @@ This project will address several critical questions related to top selling agen
 Fictional Superstore sales data including:
 * Order ID
 * Sales Amount
+* Cost
+* Profit
 * Quantity
 * Customer ID
 * Region
@@ -41,6 +43,36 @@ Fictional Superstore sales data including:
   * Total Orders: 7,385
   * Unique Customers: 786
   * Total Quantity: 27,975
+  * Total Cost: $323,419
+  * Total Profit: $1,400,233
+
+* Top 10 Selling Agents
+
+  The analysis of sales data revealed the top 10 sales agents who made the highest contributions in terms of total revenue generated from product sales.
+  Santiago emerged as the top-performing agent with total sales of $343,443, leading significantly ahead of the others. He was followed by Nathan, who    achieved $224,137 in total sales, and Elias, with $139,953. These three agents stand out for their remarkable sales performance and could serve as     key examples in future performance reviews or internal training programs.
+
+  Further down the list, Joan recorded $94,304, while Shawna followed closely with $82,020. Bradley, Bruce, and Lorraine also performed well,   contributing over $60,000 each to the company's revenue. Finally, Hope and Antoinette round out the top 10 with solid sales figures of $62,619 and $60,293, respectively.
+
+  This breakdown not only highlights individual performance but also gives insights into potential team leadership, coaching opportunities, and areas   for replicating successful sales strategies.
+
+* Sales Performance by Month (Line Chart)
+  *	Strongest sales in December, November, and September.
+  * Insight: Indicates seasonal spikes; great for planning sales promotions.
+
+* Regional Sales (Pie Chart)
+  *	West leads with 31%, followed by East (29%) and Central (23%).
+  *	Insight: West, East, and Central are key regions; marketing can focus on expanding this three regions.
+
+*Sales Perfromance by Product Category
+  * The product categories by total sales are Technology ($632,915), Furniture ($559,402), and Office Supplies ($531,254).
+  * Insights:
+    * Technology leads as the highest revenue-generating category, indicating strong customer demand and potential.
+    * Furniture ranks second, showing consistent performance.
+    * Office Supplies maintains steady sales.
+   
+
+
+
   
 
 
