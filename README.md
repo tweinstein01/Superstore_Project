@@ -63,13 +63,47 @@ Fictional Superstore sales data including:
   *	West leads with 31%, followed by East (29%) and Central (23%).
   *	Insight: West, East, and Central are key regions; marketing can focus on expanding this three regions.
 
-*Sales Perfromance by Product Category
+* Sales Perfromance by Product Category
   * The product categories by total sales are Technology ($632,915), Furniture ($559,402), and Office Supplies ($531,254).
   * Insights:
     * Technology leads as the highest revenue-generating category, indicating strong customer demand and potential.
     * Furniture ranks second, showing consistent performance.
     * Office Supplies maintains steady sales.
+
+### Results/Findings
+2017–2019 Sales Performance
+* Consistent and strong sales across all months.
+* Noticeable monthly growth trend year over year.
+* Indicates stable business operations and demand.
+
+2020 Sales Performance
+* Significant decline in sales activity.
+* Sales occurred in only 4 out of 12 months.
+* Suggests disruption or reduced market activity during the year.
+
+ Overall Yearly Performance
+* Technology emerged as the top-performing product category throughout 2017 to 2020.
+* In 2018, there was a surprising spike in Furniture sales, temporarily outperforming Technology for that year.
+
+Shipping mode status
+* Standard Class dominates with over 50% of total shipments, indicating it's the most preferred delivery option by customers.
+
+### Recommendations
+Based on the analysis, we recommend the following actions:
+* Invest more in Technology category during peak sales seasons to maximize revenue.
+* Focus on expanding and optimizing Standard Class shipping — improve efficiency, negotiate better logistics deals, and consider promotional bundles to further enhance customer satisfaction and cost-effectiveness.
+* Increase investment in Furniture category, considering its strong performance in 2018 and its potential for future growth
+
    
+
+
+
+---
+
+## 👨‍💻 Author
+**Taiwo Sulaimon**  
+Certified Data Analyst | Excel| SQL | Power BI | Python  
+[LinkedIn](https://www.linkedin.com/in/taiwo-sulaimon-2b85a72b6) | [GitHub](https://github.com/yourusername)
 
 
 
