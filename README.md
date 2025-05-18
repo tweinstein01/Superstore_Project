@@ -121,7 +121,7 @@ Based on the analysis, we recommend the following actions:
 ## 👨‍💻 Author
 **Taiwo Sulaimon**  
 Certified Data Analyst | Excel | SQL | Power BI | Python  
-[LinkedIn](https://www.linkedin.com/in/taiwo-sulaimon-2b85a72b6) | [GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/taiwo-sulaimon-2b85a72b6) | [GitHub](https://github.com/tweinstein01)
 
 
 
