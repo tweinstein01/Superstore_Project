@@ -6,7 +6,8 @@
 * [Project Objectives](#project-objectives)
 * [Tools Used](#tools-used)
 * [Datasets](#datasets)
-* [Project Overview](#project-overview)
+* [Key Insights](#key-insights)
+* [Results/Findings](#result--findings)
 
 ### Project Overview
 This project features a dynamic Excel dashboard built to analyze and visualize sales performance using real-world Superstore dataset. The datasets helps track KPIs, monitor trends, and uncover insights for data-driven business decisions.
