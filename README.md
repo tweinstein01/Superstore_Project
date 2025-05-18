@@ -1,6 +1,18 @@
 # Superstore Data Analysis
+### Table of Content
+* [Project Overview](#project-overview)
+* [Data Source](#data-source)
+* [Problem Statements](#problem-statement)
+* [Project Objectives](#project-objectives)
+* [Tools Used](#tools-used)
+* [Datasets](#datasets)
+* [Project Overview](#project-overview)
+
 ### Project Overview
 This project features a dynamic Excel dashboard built to analyze and visualize sales performance using real-world Superstore dataset. The datasets helps track KPIs, monitor trends, and uncover insights for data-driven business decisions.
+
+### Data Source
+Superstore data: The primary dataset used for this analysis is the "superstore_data.csv" file, containing detailed informationabout each sale made by the company.
 ### Problem Statement
 This project will address several critical questions related to top selling agents, and sales performance by product categories.
 * What are the top 10 selling agents?
@@ -102,7 +114,7 @@ Based on the analysis, we recommend the following actions:
 
 ## 👨‍💻 Author
 **Taiwo Sulaimon**  
-Certified Data Analyst | Excel| SQL | Power BI | Python  
+Certified Data Analyst | Excel | SQL | Power BI | Python  
 [LinkedIn](https://www.linkedin.com/in/taiwo-sulaimon-2b85a72b6) | [GitHub](https://github.com/yourusername)
 
 
