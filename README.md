@@ -15,7 +15,7 @@ This project features a dynamic Excel dashboard built to analyze and visualize s
 
 ### 📸 Dashboard Preview
 
-![Superstore Dashboard](superstore_dashboard.jpg)
+![Superstore Dashboard](Superstore_Dashboard.jpg)
 
 ### Data Source
 Superstore data: The primary dataset used for this analysis is the "superstore_data.csv" file, containing detailed informationabout each sale made by the company.
