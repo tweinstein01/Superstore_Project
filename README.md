@@ -11,6 +11,10 @@
 ### Project Overview
 This project features a dynamic Excel dashboard built to analyze and visualize sales performance using real-world Superstore dataset. The datasets helps track KPIs, monitor trends, and uncover insights for data-driven business decisions.
 
+### 📸 Dashboard Preview
+
+![Superstore Dashboard](superstore-dashboard.jpg)
+
 ### Data Source
 Superstore data: The primary dataset used for this analysis is the "superstore_data.csv" file, containing detailed informationabout each sale made by the company.
 ### Problem Statement
@@ -36,7 +40,7 @@ This project will address several critical questions related to top selling agen
   * Line, Bar, Pie, and Donut Charts
   * Conditional Formatting
   * Dashboard Design & Layout
-### Dataset
+### Datasets
 Fictional Superstore sales data including:
 * Order ID
 * Sales Amount
