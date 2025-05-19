@@ -81,7 +81,7 @@ Fictional Superstore sales data including:
   *	West leads with 31%, followed by East (29%) and Central (23%).
   *	Insight: West, East, and Central are key regions; marketing can focus on expanding this three regions.
 
-* Sales Perfromance by Product Category
+* Sales Performance by Product Category
   * The product categories by total sales are Technology ($632,915), Furniture ($559,402), and Office Supplies ($531,254).
   * Insights:
     * Technology leads as the highest revenue-generating category, indicating strong customer demand and potential.
